@@ -39,4 +39,4 @@ int main()
 
 
 ## Result:
-Thus the program for caluculating the area of the rectangle is written and output is verified
+Thus the program for caluculating the area of the rectangle is written and output is verified. 
