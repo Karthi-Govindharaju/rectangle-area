@@ -13,7 +13,7 @@ Get the input from the user
 ### Step 2:
 Get the ouput
 ### Step 3:
-Print the potput
+Print the output
 ## CODE
 ~~~
 /*
