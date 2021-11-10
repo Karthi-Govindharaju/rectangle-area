@@ -11,7 +11,7 @@ To write a program to find area of a rectangle.
 Get the input from the user
 
 ### Step 2:
-
+Get the ouput
 ### Step 3:
 
 ## CODE
