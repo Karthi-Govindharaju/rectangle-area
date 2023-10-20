@@ -36,7 +36,7 @@ int main()
 ~~~
 ## Output:
 ![Area of Rectangle](/output.jpg)
-
+![](https://github.com/Karthi-Govindharaju/Web_server/blob/8d64162cd6c2d9b227a117d850db15a9286f49ae/webserver.jpg)
 
 ## Result:
 Thus the program for caluculating the area of the rectangle is written and output is verified. 
